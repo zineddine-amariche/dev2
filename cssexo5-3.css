@@ -1,0 +1,174 @@
+/** 
+		theme name: bootstap
+		theme coder : zinou 
+		psd designer : 
+		color black mov : #201128
+		color yellow :#ffff12
+		gris  background color :#6d6d6d;
+
+
+**/
+
+
+    /**   star uper bar  **/
+
+
+.yellow { color:#ffff12  }
+
+.upper-bar { 
+	background-color: #201128;
+	color: #fff;
+	padding: 10px;
+
+
+
+	   }
+
+.upper-bar  h1 {
+	 font-size: 2rem;
+}
+
+
+.upper-bar  h4 {
+	margin-top: 20px;
+	 font-size: 1rem;
+}
+
+    /**   star uper bar  **/
+
+
+
+/** start nav bar**/
+
+.navbar-brand span:first-child {
+	color: black;
+	text-shadow: 1px 1px 15px black;
+	font-weight: bold;
+}
+.navbar-brand span:last-child {
+	color:yellow ;
+	font-family: cursive;
+	text-shadow: 3px 3px 10px black;
+}
+
+
+
+
+/** end nav bar**/
+
+/** star body **/
+
+
+.container-fluid{
+	 background-color:#6d6d6d;
+	 color :white;
+	 margin-top: 30px;
+	 margin-right: 15px;
+	 margin-left: 15px;
+	 margin-bottom: 30px;}
+
+
+
+	 .container {
+    width: 100%;
+     padding-right: 0px; 
+     padding-left: 0px; 
+     margin-right: auto; 
+     margin-left: auto;}
+
+.list {
+          padding: 20px;
+    margin: 15px;
+   
+}
+
+.list2 {
+    -ms-flex: 0 0 83.333333%;
+    flex: 0 0 83.333333%;
+    max-width: 83.333333%;
+    margin-top: 20px;
+    margin-left: 20px;
+	background-color: #3e444a;
+	border-radius: 10px;
+	margin-bottom: 30px;
+	    padding: 20px;
+}
+
+img {
+   
+    border-style: none;
+    float: right;
+    width: 200px;
+    height: 126px;
+    border-radius: 20px;
+
+}
+
+#shd{color: yellow;
+   font-family: cursive;
+   margin-left: 20px;
+   margin-bottom: 20px;
+   text-shadow: 2px 2PX black;
+   background-color:#737676;
+   border-radius: 15px;
+
+   }
+
+  .shadaw h1 {color: #201128;
+   font-family: cursive;
+   margin-left: 20px;
+   margin-bottom: 20px;
+   text-shadow: 2px 2PX yellow;
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/** end body **/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
